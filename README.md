@@ -20,7 +20,7 @@
 ### Glad to see you here!  
 🔭 I’m working as a System's Administrator since 2017 and a Aspiring Data Scientist. 
 
-🌱 I’m currently pursuing Machine Learning Engineer with Microsoft Azure Nanodegree Program,Udacity and Pursuing Master of Science degree in Data Science, LJMU. PG Diploma holder from IIIT, Banglore
+🌱 I have Complrted Machine Learning Engineer with Microsoft Azure Nanodegree Program,Udacity and Pursuing Master of Science degree in Data Science, LJMU. PG Diploma holder from IIIT, Banglore
 
 👯 I’m looking for new opportunities in Data Science and Machine Learning.
 
